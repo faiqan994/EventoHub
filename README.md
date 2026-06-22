@@ -1,58 +1,60 @@
-EventoHub
-Overview
+# EventoHub
 
-EventoHub is a mobile event management application developed as a team project for the Mobile Application Development course. The application is designed to help users discover events, book tickets, manage registrations, and allow organizers to create and manage events.
+EventoHub is an Android-based event management application developed as part of a Mobile Application Development course project. The application allows users to browse events, manage registrations, and interact with event-related features through a mobile interface.
 
-This repository contains the complete project source code, APK file, and demonstration video.
+## Project Type
 
-Team Members
-Faiqa Noor – Frontend Development
-Hifza Rasool – Backend Development
-My Contribution (Faiqa Noor)
+Academic Team Project
 
-My primary responsibility in this project was the frontend development of the Android application using Kotlin and XML.
+## Team Members
 
-Work Completed
-Designed and implemented the user interface screens using XML.
-Developed application functionality in Kotlin.
-Created navigation flows between screens.
-Implemented forms, layouts, and user interaction components.
-Designed and integrated dummy/sample data for testing purposes.
-Created data models used throughout the application.
-Participated in application structure and feature planning.
-Assisted with testing and UI improvements.
-Technologies Used
-Kotlin
-XML
-Android Studio
-Material Design Components
-Backend Contribution
+* Faiqa Noor – Frontend Development
+* Hifza Rasool – Backend Development
 
-The backend implementation was completed by my teammate:
+## Contribution Details
 
-Hifza Rasool
+### Frontend Development (Faiqa Noor)
 
-Firebase Firestore integration
-Database management
-Data storage and retrieval
-Backend functionality and cloud database configuration
-Project Features
-User Authentication
-Event Discovery
-Event Details
-Ticket Booking
-Organizer Dashboard
-Event Creation and Management
-User Profile Management
-Project Assets
-APK
+My primary contribution to this project was the design and implementation of the Android application's frontend using Kotlin and XML.
 
-The APK file is included in this repository for testing and demonstration purposes.
+Responsibilities included:
 
-Demo Video
+* Designing and developing application screens
+* Implementing UI layouts using XML
+* Developing frontend functionality using Kotlin
+* Creating navigation flows between screens
+* Creating data models used throughout the application
+* Implementing dummy/sample data for development and testing
+* Participating in UI refinement, testing, and application structure planning
 
-A demonstration video showcasing the application's features is included in this repository.
+### Backend Development (Hifza Rasool)
 
-Academic Project Notice
+Backend development and database integration were implemented by Hifza Rasool using Firebase Firestore.
 
-This project was developed as part of a university Mobile Application Development course. It is a collaborative academic project and represents the contributions of multiple team members. Individual contributions are listed above for transparency and proper credit
+Responsibilities included:
+
+* Firebase Firestore integration
+* Database design and management
+* Data storage and retrieval
+* Backend functionality implementation
+
+## Technologies Used
+
+* Kotlin
+* XML
+* Android Studio
+* Firebase Firestore
+* Material Design Components
+
+## Repository Contents
+
+This repository includes:
+
+* Complete source code
+* APK file
+* Project documentation
+* Demonstration video
+
+## Disclaimer
+
+This repository represents a collaborative academic project. Contribution details are provided to clearly identify the responsibilities of each team member. While the complete project is included in this repository, my primary work focused on frontend development, UI implementation, data models, and dummy data creation, while backend and Firestore integration were completed by my teammate.
